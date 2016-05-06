@@ -24,3 +24,7 @@ The goal of your project is to predict the manner in which they did the exercise
 ### Peer Review Portion
 
 Your submission for the Peer Review portion should consist of a link to a Github repo with your R markdown and compiled HTML file describing your analysis. Please constrain the text of the writeup to < 2000 words and the number of figures to be less than 5. It will make it easier for the graders if you submit a repo with a gh-pages branch so the HTML page can be viewed online (and you always want to make it easy on graders :-).
+
+## Submission
+
+Please view the page for this project here: http://mandoir.github.io/CourseraMachineLearning
